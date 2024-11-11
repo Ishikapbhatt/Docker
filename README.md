@@ -1,4 +1,4 @@
-# Docker Notes - Best Practices
+# Docker Notes
 
 ## Table Content
 ```
