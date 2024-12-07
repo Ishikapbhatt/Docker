@@ -354,8 +354,4 @@ docker build -t name-of-result .
 + each line takes the image of previous line and makes another images.
 + the previous image is unchanged.
 
-## 14. References
-1. https://docs.docker.com/engine/reference/builder/
-2. http://apachebooster.com/kb/wp-content/uploads/2017/09/docker-architecture.png
-3. https://github.com/wsargent/docker-cheat-sheet#why-docker
-4. http://extremeautomation.io/img/cheatsheets/cheat_sheet_docker_page_1.png
+
